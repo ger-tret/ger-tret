@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋 I'm [German]
 
-<!--
-**ger-tret/ger-tret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Junior Java Developer 
+*Passionate about building clean, scalable back-end systems and learning new technologies.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- *Tech:* Java 21, Spring Boot 3, Docker.
+- Improving my skills in **PostgreSQL** and **Spring Security**.
+
+### 🏆 Last projects:
+---
+## [ ⭕ JOSEPHUS_SIMULATOR ](https://github.com/ger-tret/josephus-simulator)
+**Interactive purge simulator based on the Josephus problem.**
+- **STATED:** Java 21, Spring Boot 3, Docker.
+- **AESTHETIC:** Weirdcore / Minimalist / High-stress UI.
+---
+
+
+### 🌱 Currently Learning
+- **Microservices Architecture** (Spring Cloud).
+- **AWS** fundamentals for cloud deployment.
+- Deepening my knowledge in **Unit & Integration Testing**.
+- And *much-much more*!
+
+---
+
+### 🛠️ My Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java 17/21, SQL, JavaScript |
+| **Frameworks** | Spring Boot 3 (Web, Validation, Actuator, JPA) |
+| **Testing** | JUnit 5, AssertJ, Mockito |
+| **Tools & Infra** | Docker, Maven, Git, Swagger/OpenAPI |
+| **Databases** | PostgreSQL, MySQL |
+
+---
+
+### ⚡ Fun Fact
+- I actually enjoy studying theory and the finer points of technology (fierce developer means a happy team!).
+- I'm a fan of indie game design and creative UI experiments.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ger-tret&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 How to reach me
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]((https://www.linkedin.com/in/german-tretyakevich-7778b0319/))
+[ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ]([(https://t.me/AbutnotB))
+[ ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ger.tretyakevich@gmail.com)
