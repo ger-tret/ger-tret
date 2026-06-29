@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [German]
+# Hi there 👋 I'm German
 
 ### 👨‍💻 Junior Java Developer 
 *Passionate about building clean, scalable back-end systems and learning new technologies.*
