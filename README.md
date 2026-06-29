@@ -42,16 +42,10 @@
 - I actually enjoy studying theory and the finer points of technology (fierce developer means a happy team!).
 - I'm a fan of indie game design and creative UI experiments.
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ger-tret&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-</p>
 
 ---
 
 ### 📫 How to reach me
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]((https://www.linkedin.com/in/german-tretyakevich-7778b0319/))
-[ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ]([(https://t.me/AbutnotB))
-[ ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ger.tretyakevich@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-tretyakevich-7778b0319/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbutnotB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ger.tretyakevich@gmail.com)
