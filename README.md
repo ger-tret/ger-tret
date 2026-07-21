@@ -9,13 +9,6 @@
 - *Tech:* Java 21, Spring Boot 3, Docker.
 - Improving my skills in **PostgreSQL** and **Spring Security**.
 
-### 🏆 Last projects:
----
-## [ ⭕ JOSEPHUS_SIMULATOR ](https://github.com/ger-tret/josephus-simulator)
-**Interactive purge simulator based on the Josephus problem.**
-- **STATED:** Java 21, Spring Boot 3, Docker.
-- **AESTHETIC:** Weirdcore / Minimalist / High-stress UI.
----
 
 
 ### 🌱 Currently Learning
